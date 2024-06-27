@@ -1,4 +1,4 @@
-I basically uploaded this to try understand git and github
+I uploaded this to try understand git and github \n
 :)
 Also: 
 http://www.ashley-bovan.co.uk/
